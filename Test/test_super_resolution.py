@@ -1,5 +1,5 @@
 
-#giang change to v2
+#giang change to v3
 from __future__ import print_function
 import numpy as np
 import theano
